@@ -1,4 +1,4 @@
-
+# Cryptoforge
 ---
 __Menu :)__
 
@@ -8,5 +8,6 @@ __Menu :)__
 - __[Bitclout](https://www.bitclout.com/u/pay2play)__ 
 - __[YouTube](https://www.youtube.com/channel/UCnDXm6ayZkAShEbS72D1dxw)__ 
 - __[Plot Request Form](https://form.jotform.com/211406357662151)__ 
+- __[Discord](http://discord.gg/qPQj8qH)__ 
 ---
 
