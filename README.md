@@ -1,6 +1,5 @@
 # Cryptoforge
----
-__Menu :)__
+![](cryptoforge.jpg)
 
 - __[Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)__ 
 - __[GDD](https://docs.google.com/document/d/1VxosEcPRvGfpERgNLHJQg9QJElBn3ohaRKhY4YpBldM/edit?usp=sharing)__ 
@@ -9,5 +8,6 @@ __Menu :)__
 - __[YouTube](https://www.youtube.com/channel/UCnDXm6ayZkAShEbS72D1dxw)__ 
 - __[Plot Request Form](https://form.jotform.com/211406357662151)__ 
 - __[Discord](http://discord.gg/qPQj8qH)__ 
----
 
+Support our foundation!
+1AXhGNWWVui9XVDEftfn75dXkzBj5evdXt
