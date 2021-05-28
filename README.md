@@ -1,7 +1,7 @@
-# Cryptoforge
+# Cryptoforge One
 ![](cryptoforge.jpg)
 
-- __[Game](http://cryptoforge.game)__
+- __[Status](http://cryptoforge.game)__
 - __[Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)__
 - __[Core](https://core.playentertainment.online)__  
 - __[GDD](https://docs.google.com/document/d/1VxosEcPRvGfpERgNLHJQg9QJElBn3ohaRKhY4YpBldM/edit?usp=sharing)__ 
