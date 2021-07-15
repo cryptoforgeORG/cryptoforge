@@ -1,5 +1,5 @@
 # Cryptoforge One
-![](cryptoforge.jpg)
+![](cryptoforge.png)
 
 - __[Status](http://cryptoforge.game)__
 - __[Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)__
@@ -10,6 +10,8 @@
 - __[YouTube](https://www.youtube.com/channel/UCnDXm6ayZkAShEbS72D1dxw)__ 
 - __[Plot Request Form](https://form.jotform.com/211406357662151)__ 
 - __[Discord](http://discord.gg/qPQj8qH)__ 
+- __[Factions](https://masterofconquest.com.s3.amazonaws.com/MastersOfConquestFactions-1.0.pdf)__ 
+
 
 Support our foundation!
 1AXhGNWWVui9XVDEftfn75dXkzBj5evdXt
